@@ -98,9 +98,3 @@ Future Enhancements:
 1. Add dark mode toggle
 2. Integrate CMS for easier content updates
 3. Use GSAP for advanced animations
-
-----------------------------------------
-
-Note:
------
-This project reflects the individual efforts and contributions of Muhammad Saad Tahir. It showcases a practical implementation of modern web development techniques.
